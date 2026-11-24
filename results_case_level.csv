@@ -1,0 +1,13 @@
+case,name,control,S1_calculator,S2_chatgpt,S3_gemini
+C1,al-Umariyya I,yes,Pass,Pass,E3
+C2,al-Umariyya II,yes,Pass,Pass,Pass
+C3,al-Mushtaraka,no,E1,E2,E1
+C4,Grandfather + siblings,no,Pass,Pass,E2
+C5,Grandfather with a sharer,no,Pass,Pass,Pass
+C6,al-Akdariyya,no,E2,Pass,E2
+C7,Awl to 10,yes,Pass,Pass,Pass
+C8,Radd,no,E5,Pass (early view disclosed),Pass
+C9,Dhawu al-arham,no,E5,Pass (early view disclosed),Pass
+C10,Three grandmothers,no,E1,E1,E1
+C11,Accidental killer,no,E4,Pass,E3
+C12,Intentional killer,yes,E4,Pass,Pass

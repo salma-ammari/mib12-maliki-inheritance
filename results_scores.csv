@@ -1,0 +1,4 @@
+system,DA,MFI,ICS,TDS,JTQ_paper_weights,JTQ_equal_weights,JTQ_correctness_heavy
+S2 ChatGPT,0.833,0.750,0.20,0.875,0.720,0.665,0.749
+S3 Gemini,0.500,0.375,0.20,0.813,0.464,0.472,0.464
+S1 Calculator (Maliki selected),0.417,0.250,0.00,0.500,0.317,0.292,0.333

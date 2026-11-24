@@ -1,0 +1,27 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Salma Ammari
+
+This work (the MIB-12 benchmark, the reference oracle source code, the prompts
+and the result files in this repository) is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format.
+  - Adapt: remix, transform, and build upon the material.
+
+Under the following terms:
+  - Attribution: You must give appropriate credit to the author, cite the paper
+    below, provide a link to the license, and indicate if changes were made.
+  - NonCommercial: You may not use the material for commercial purposes
+    (including commercial software or applications) without the author's
+    prior written permission.
+
+Paper to cite:
+  Ammari, S. (2026). Evaluating electronic inheritance calculation software in
+  light of Maliki jurisprudence: A madhab-aware benchmark and reference oracle.
+  14th International Conference on Islamic Applications in Computer Science
+  and Technologies (IMAN 2026), Malaysia.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+For commercial use, contact: salma93ammari@gmail.com

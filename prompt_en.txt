@@ -1,0 +1,17 @@
+English translation of the prompt (the Arabic original in prompt_ar.txt was the one submitted).
+Prompt items 1 and 2 correspond to benchmark cases C2 and C1; items 3-12 correspond to C3-C12.
+
+Answer according to the Maliki school. For each of the following cases, state the heirs and the excluded heirs, the share of each heir, the base of the case and its correction, and whether the schools disagree on it.
+
+1. A man died leaving: a wife, a father and a mother.
+2. A woman died leaving: a husband, a father and a mother.
+3. A woman died leaving: a husband, a mother, two uterine brothers and a full brother.
+4. A man died leaving: a grandfather (father's father), a full brother and a full sister.
+5. A man died leaving: a wife, a grandfather (father's father) and a full brother.
+6. A woman died leaving: a husband, a mother, a grandfather (father's father) and a full sister.
+7. A woman died leaving: a husband, a mother, two full sisters and two uterine brothers.
+8. A man died leaving: a wife and a daughter.
+9. A man died leaving: a wife and a daughter's son.
+10. A man died leaving: a son, his mother's mother's mother, his father's mother's mother and his father's father's mother.
+11. A man died leaving: a wife, a son who killed his father accidentally, and a full brother.
+12. A man died leaving: a wife, a son who killed his father intentionally, and a full brother.
